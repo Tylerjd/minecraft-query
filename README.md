@@ -3,6 +3,8 @@ minecraft-query
 
 Official version 1 of the old forked rubygem, completely redone/refactored.
 
+[![Gem Version](https://badge.fury.io/rb/minecraft-query.png)](http://badge.fury.io/rb/minecraft-query)
+
 ### Usage
 
 To simply get basic information about the server just `require 'minecraft-query'` and 
